@@ -1,0 +1,13 @@
+#summary Remote friendly HTML5 navigation
+
+= Introduction =
+
+Although web-based, one of the unique features of this platform over typical websites is the need to access information using simple remote commands. In the most general sense this is up, down, right, left and an enter button to select content.
+
+
+= Details =
+
+Add the following:
+  * How remote commands translate to user interface
+  * Customizations to Firefox to handle command propogation to top level and subframes
+  * Examples of using custom jQuery widgets to easily manage navigation
